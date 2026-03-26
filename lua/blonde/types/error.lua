@@ -1,0 +1,3 @@
+---@class blondeError
+---@field code number Code of the error
+---@field message string Message of the error
